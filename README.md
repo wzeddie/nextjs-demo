@@ -12,3 +12,7 @@ Update Next 15 RC, React 19 RC, and use pnpm (#743)
 
 启动方式npm run dev
 与github建立连接
+PS D:\nextjs-dashboard>  git remote add origin git@github.com:wzeddie/nextjs-demo.git
+修改一个readme.txt，并添加，才能创建分支
+PS D:\nextjs-dashboard> git branch -M main
+PS D:\nextjs-dashboard> git push -u origin main
